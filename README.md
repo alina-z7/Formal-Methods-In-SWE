@@ -1,4 +1,4 @@
-# COMP 317: Formal-Methods-In-Software Engineering - Student Repository
+# COMP 335: Formal-Methods-In-Software Engineering - Student Repository
 
 ## Course Information
 
